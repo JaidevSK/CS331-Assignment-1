@@ -1,0 +1,5 @@
+Total Packets: 792179
+Total Amount of Data Transferred: 355624326 Bytes
+Minimum Packet Size: 54
+Maximum Packet Size: 1514
+Average Packet Size: 448.9191533731644
